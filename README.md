@@ -28,7 +28,7 @@ hn-scraper-email/
 │   ├── scraper.js     # Lógica de scraping
 │   ├── email.js       # Montagem e envio do e-mail
 │   └── index.js       # Ponto de entrada
-├── .env.example       # Template de variáveis de ambiente
+├── .env               # Template de variáveis de ambiente
 ├── .gitignore         # Lista de arquivos ignorados pelo Git
 ├── package.json       # Dependências e scripts
 └── README.md          # Documentação do projeto
